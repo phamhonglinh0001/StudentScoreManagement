@@ -1,0 +1,20 @@
+c:\users\pham hong linh\documents\visual studio 2015\Projects\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Pham Hong Linh\Documents\Visual Studio 2015\Projects\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+D:\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
